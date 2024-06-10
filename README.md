@@ -13,7 +13,7 @@ Exercise of Low Level Programming with 8085 Assembly Lecture
 
 
 
-[Tamara Atanasova ](https://github.com/tamaraatanasova)
+[Tijana Ilieva ](https://github.com/ilievatijana)
 
 
 
